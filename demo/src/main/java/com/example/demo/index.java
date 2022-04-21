@@ -8,6 +8,6 @@ public class index {
 
     @GetMapping("/mensaje")
     public String HelloWorld() {
-        return "Aplicación web simple.";
+        return "Buenos dias USACH.";
     }
 }
